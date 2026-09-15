@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="today">Aujourd\'hui</string>
+    <string name="homeScreen_detail">Prévision détaillées</string>
+</resources>
